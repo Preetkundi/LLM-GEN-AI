@@ -5,20 +5,7 @@ A dual-demo repository showcasing:
 1. **app.py** – a text-based LLM web application  
 2. **vision.py** – a vision/AI image-processing tool
 
-## Table of Contents
 
-1. [Features](#features)  
-2. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-3. [Configuration](#configuration)  
-4. [Usage](#usage)  
-   - [Running `app.py`](#running-apppy)  
-   - [Running `vision.py`](#running-visionpy)  
-5. [Project Structure](#project-structure)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
-8. [Acknowledgements](#acknowledgements)  
 
 ## Features
 
